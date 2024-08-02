@@ -1,0 +1,39 @@
+.D {
+  border: 1px solid red;
+}
+
+.D2 {
+  border: 1px solid forestgreen;
+}
+
+.D3 {
+  border: 1px solid aquamarine;
+}
+
+.titanomachy {
+  width: 340px;
+}
+
+.ragnarok {
+  width: 522px;
+}
+
+.gravity {
+  width: 425px;
+}
+
+.apophis {
+  width: 340px;
+}
+
+.light {
+  width: 441px;
+}
+
+h4 {
+  text-align: center;
+}
+
+h1 {
+  padding-right: 450px;
+}

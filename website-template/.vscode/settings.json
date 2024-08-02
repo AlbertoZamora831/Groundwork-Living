@@ -1,0 +1,22 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "css.styleSheets": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+        "stylesheet.css"
+    ],
+    "[html]": {
+        "editor.tabSize": 2,
+        "editor.suggest.insertMode": "replace",
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true
+    },
+    "[css]": {
+        "editor.suggest.insertMode": "replace",
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2
+    }
+}
